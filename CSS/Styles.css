@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/Drainage.jpg);
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: aquamarine;
+}
+
+#center {
+    color: darkgoldenrod;
+}
