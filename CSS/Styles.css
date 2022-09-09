@@ -2,12 +2,28 @@ body {
     background-image: url(../images/Drainage.jpg);
 }
 
+body {
+    color: blue;
+    text-align: center;
+}
+
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
-    color: aquamarine;
+    font-size: larger;
+    color: red;
+    text-align: left;
 }
 
 #center {
-    color: darkgoldenrod;
+    color: beige;
+}
+
+h3 {
+    color: aqua;
+    font-size: xx-large;
+}
+
+ol {
+    color: black;
+    font-size: x-large;
 }
