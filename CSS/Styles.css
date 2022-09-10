@@ -5,13 +5,20 @@ body {
 body {
     color: blue;
     text-align: center;
+    background-color:DodgerBlue;
+}
+
+h1 {
+    border:2px solid rgb(255, 71, 71);
+    
+}
+
+h2 {
+    border:2px solid rgba(255, 71, 157, 0.932);
 }
 
 p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: larger;
-    color: red;
-    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: larger; color: red; text-align: left;
 }
 
 #center {
@@ -19,11 +26,14 @@ p {
 }
 
 h3 {
-    color: aqua;
-    font-size: xx-large;
+    border:2px solid rgba(70, 70, 70, 0.932); color: aqua; font-size: xx-large;
 }
 
 ol {
-    color: black;
-    font-size: x-large;
+    color: black; font-size: x-large; border-style: solid; border-color: peru; border-width: 20px; border-color: cadetblue; float: left;
+}
+
+img {
+    margin: 1px auto; display: block;
+
 }
