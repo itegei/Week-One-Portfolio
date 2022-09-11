@@ -1,5 +1,5 @@
 body {
-    background-image: url();
+    background-image: url(/images/Drainage.jpg);
 }
 
 body {
@@ -15,7 +15,6 @@ h1 {
 
 h2 {
     border:2px solid rgba(255, 71, 157, 0.932);
-}
 
 p {
     font-family: Georgia, 'Times New Roman', Times, serif; font-size: larger; color: red; text-align: left;
@@ -33,7 +32,7 @@ ol {
     color: black; font-size: large; border-style: solid; border-color: peru; border-width: 20px; border-color: cadetblue;
 }
 h5 {
-    color: black; font-size: large; border-style:solid border-color: peru; border-width: 20px; border-color: cadetblue;
+    color: black; font-size: large; border-style: solid; border-color: peru; border-width: 20px; border-color: cadetblue;
 }
 
 img {
