@@ -1,23 +1,27 @@
 body {
-    background-image: url(/images/Drainage.jpg);
-}
-
-body {
-    color: blue;
-    text-align: left;
     background-color:rgb(217, 224, 232);
+    color: auto;
+    text-align: auto;
+    background-image: url();
+    font-size: x-large;
 }
+</body>
 
 h1 {
     border:2px solid rgb(255, 71, 71);
-    
+    color: blue;
+    text-align: center;
 }
 
 h2 {
     border:2px solid rgba(255, 71, 157, 0.932);
-
+    color: rgb(122, 122, 131);
+    text-align: center;
 p {
-    font-family: Georgia, 'Times New Roman', Times, serif; font-size: larger; color: red; text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: larger;
+    color: red; 
+    text-align: left;
 }
 
 #center {
@@ -25,17 +29,20 @@ p {
 }
 
 h3 {
-    border:2px solid rgba(70, 70, 70, 0.932); color: #090e0e; font-size: xx-large;
+    border:2px solid rgba(70, 70, 70, 0.932); 
+    color: #090e0e; 
+    font-size: xx-large;
 }
 
 ol {
-    color: black; font-size: large; border-style: solid; border-color: peru; border-width: 20px; border-color: cadetblue;
-}
-h5 {
-    color: black; font-size: large; border-style: solid; border-color: peru; border-width: 20px; border-color: cadetblue;
+    color: black; 
+    font-size: large; 
+    border-style: solid; 
+    border-color: peru; 
+    border-width: 20px; 
+    border-color: cadetblue;
 }
 
 img {
     margin: 1px auto; display: block; float: auto; text-align: right;
-
 }
