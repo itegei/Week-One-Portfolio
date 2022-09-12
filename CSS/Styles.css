@@ -3,7 +3,7 @@ body {
     color: auto;
     text-align: auto;
     background-image: url();
-    font-size: x-large;
+    font-size: large;
 }
 </body>
 
@@ -19,7 +19,7 @@ h2 {
     text-align: center;
 p {
     font-family: Georgia, 'Times New Roman', Times, serif; 
-    font-size: larger;
+    font-size: medium;
     color: red; 
     text-align: left;
 }
