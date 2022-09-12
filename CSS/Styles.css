@@ -42,6 +42,14 @@ ol {
     border-width: 20px; 
     border-color: cadetblue;
 }
+ul {
+    color: black; 
+    font-size: large; 
+    border-style: solid; 
+    border-color: peru; 
+    border-width: 20px; 
+    border-color: cadetblue;   
+}
 
 img {
     margin: 1px auto; display: block; float: auto; text-align: right;
