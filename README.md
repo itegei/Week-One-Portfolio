@@ -31,6 +31,10 @@ Languages used include HTML, and CSS. I have used editor Visual Studio Code for 
 
 If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: isaac.tegei@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
+### Live Link
+
+https://itegei.github.io/Week-One-Portfolio/
+
 ### License
 
 _The License used is GPL_
